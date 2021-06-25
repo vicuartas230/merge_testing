@@ -2,7 +2,7 @@
 
 int main()
 {
-    char *c = "Holberton";
+    char *c = "Sorry\n";
     int i = 0;
 
     while (c[i])
